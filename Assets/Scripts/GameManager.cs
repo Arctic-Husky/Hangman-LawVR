@@ -5,10 +5,12 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
 
-    //private int IndexCenaAtual;
+    private int cenaAtual;
 
     private void Awake()
     {
+        cenaAtual = 0;
+
         if(Instance != null)
         {
             Destroy(gameObject);
@@ -22,16 +24,23 @@ public class GameManager : MonoBehaviour
 
     public void MoverParaJogo(int numeroCena)
     {
-        SceneManager.LoadScene(numeroCena); // Alterar depois para mais game modes
+        SceneManager.LoadScene(numeroCena);
+        cenaAtual = numeroCena;
     }
 
     public void VoltarParaMenu()
     {
         SceneManager.LoadScene(0);
+        cenaAtual = 0;
     }
 
     public void SairDoJogo()
     {
         Application.Quit();
+    }
+
+    public void ReiniciarCena()
+    {
+        SceneManager.LoadScene(cenaAtual);
     }
 }

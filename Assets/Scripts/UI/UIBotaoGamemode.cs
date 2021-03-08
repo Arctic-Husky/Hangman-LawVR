@@ -5,7 +5,7 @@ using UnityEngine;
 public class UIBotaoGamemode : MonoBehaviour
 {
     [SerializeField]
-    [Tooltip("Número da cena associado ao modo de jogo para o botão")]
+    [Tooltip("Número da cena associado ao modo de jogo para este botão")]
     private int numeroCena;
 
     public void IniciarJogo()
