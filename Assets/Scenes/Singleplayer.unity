@@ -1733,6 +1733,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 217763081}
+  - component: {fileID: 217763082}
   m_Layer: 0
   m_Name: UIPalavra
   m_TagString: Untagged
@@ -1756,6 +1757,21 @@ Transform:
   m_Father: {fileID: 767050459}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &217763082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217763080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 226735eed0c8d1f44a6c9a34543a18bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textoPalavra: {fileID: 264147539}
+  textoDescricao: {fileID: 197801434}
+  palavraManager: {fileID: 829696784}
 --- !u!1 &255499771
 GameObject:
   m_ObjectHideFlags: 0
@@ -4712,8 +4728,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   palavras:
-  - {fileID: 11400000, guid: d3c7e62970ab5e64795cd57cf38cca80, type: 2}
-  - {fileID: 11400000, guid: a0fd14ad3063bd24aa4f7702346e6302, type: 2}
+  - {fileID: 11400000, guid: 644cf8f3423b33a4c9909ecd20747ae2, type: 2}
+  - {fileID: 11400000, guid: 02086b90e24891848a5b9856fadb8c69, type: 2}
   PLACEHOLDER: 42
 --- !u!4 &829696785
 Transform:
@@ -5943,6 +5959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1150333064}
+  - component: {fileID: 1150333065}
   m_Layer: 5
   m_Name: Teclado
   m_TagString: Untagged
@@ -5995,6 +6012,20 @@ RectTransform:
   m_AnchoredPosition: {x: -34, y: -5}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1150333065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150333063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb3d149171220d54498bc75ddf8c06ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  palavraManager: {fileID: 829696784}
+  uiPalavra: {fileID: 217763082}
 --- !u!1 &1152978521
 GameObject:
   m_ObjectHideFlags: 0

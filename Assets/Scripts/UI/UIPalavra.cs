@@ -13,15 +13,17 @@ public class UIPalavra : MonoBehaviour
     TextMeshProUGUI textoDescricao;
     [SerializeField]
     PalavraManager palavraManager;
-    private void Start()
+    private void Awake()
     {
-        palavraManager.OnPalavraChange+= PalavraManager_OnPalavraChanged;
+        palavraManager.OnPalavraChange += PalavraManager_OnPalavraChanged;
+
     }
 
     private void PalavraManager_OnPalavraChanged(string palavra, string descricao)
     {
         textoPalavra.text = palavra;
         textoDescricao.text = descricao;
+        print("PalavraManager_OnPalavraChanged");
     }
     public void AtualizarTexto(string palavra)
     {

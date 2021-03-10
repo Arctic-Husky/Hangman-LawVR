@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0955d371002b05e4c8443d97ac05d79e, type: 3}
-  m_Name: Ovelha
+  m_Script: {fileID: 11500000, guid: de52a6999225fc84b8f284e11a1fb2bd, type: 3}
+  m_Name: cachorro
   m_EditorClassIdentifier: 
-  palavra: ovelha
-  descricao: um animal que come grama
+  palavra: cachorro
+  descricao: um canino de 4 patas
