@@ -25,7 +25,6 @@ public class GameManager : MonoBehaviour
     public void MoverParaJogo(int numeroCena)
     {
         SceneManager.LoadScene(numeroCena);
-        cenaAtual = numeroCena;
     }
 
     public void VoltarParaMenu()

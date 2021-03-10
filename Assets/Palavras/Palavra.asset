@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de52a6999225fc84b8f284e11a1fb2bd, type: 3}
-  m_Name: gato
+  m_Name: Palavra
   m_EditorClassIdentifier: 
-  palavra: GATO
-  descricao: um felino de 4 patas
+  palavra: 
+  descricao: 

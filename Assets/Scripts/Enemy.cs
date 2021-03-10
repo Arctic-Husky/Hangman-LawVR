@@ -19,7 +19,7 @@ public class Enemy : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col){
     if (col.gameObject.tag == "Player"){
-            ScoreVidas.vidas--;
+            //ScoreVidas.vidas--;
             spawner.SpawnInimigo();
             Destroy (this.gameObject);
             //reduzir a vida do Player

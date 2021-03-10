@@ -1,22 +1,21 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class ScoreVidas : MonoBehaviour
 {
-    public GameObject vidaUI;
-    public static int vidas = 5;
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField]
+    Text vidasText;
+    [SerializeField]
+    PalavraManager palavraManager;
+    void Awake()
     {
-        vidas = 5;
+        palavraManager.OnVidasChange += palavraManager_OnVidasChange;
     }
-
-    // Update is called once per frame
-    void Update()
+    private void palavraManager_OnVidasChange(int vidas)
     {
-        vidaUI.GetComponent<Text>().text = ("" + ScoreVidas.vidas.ToString());
+        vidasText.text = vidas.ToString();
     }
-
 }

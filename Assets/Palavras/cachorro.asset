@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de52a6999225fc84b8f284e11a1fb2bd, type: 3}
   m_Name: cachorro
   m_EditorClassIdentifier: 
-  palavra: cachorro
+  palavra: CACHORRO
   descricao: um canino de 4 patas
