@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public Spawner spawner;
     [SerializeField]
-    public static int enemySpeed = 5;
+    public static float enemySpeed = 0.5f;
     // Update is called once per frame
 
     void Start(){
