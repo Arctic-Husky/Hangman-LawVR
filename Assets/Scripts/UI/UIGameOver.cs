@@ -7,18 +7,10 @@ public class UIGameOver : MonoBehaviour
 {
     public void OnRestarButtonClick()
     {
-
-        SceneManager.LoadScene(0);
-
-
+        GameManager.Instance.ReiniciarCena();
     }
     public void OnBackButtonClick()
     {
-
-        SceneManager.LoadScene(-1);
-
-
+        GameManager.Instance.VoltarParaMenu();
     }
-
-
 }
