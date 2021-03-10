@@ -6,8 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
 
-    //public event Action OnAbrirPainel = delegate { };
-
     private int cenaAtual;
 
     private void Awake()
