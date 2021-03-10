@@ -1,14 +1,17 @@
 {
   "dependencies": {
-<<<<<<< HEAD
-=======
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {}
     },
->>>>>>> d0bf03749bec211c498db135f0d3bd77fe093a49
+    "com.unity.2d.tilemap": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
@@ -58,11 +61,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-<<<<<<< HEAD
-      "version": "3.0.1",
-=======
       "version": "3.0.4",
->>>>>>> d0bf03749bec211c498db135f0d3bd77fe093a49
       "depth": 0,
       "source": "registry",
       "dependencies": {

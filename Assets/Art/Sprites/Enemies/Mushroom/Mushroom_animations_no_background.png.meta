@@ -1,0 +1,1537 @@
+fileFormatVersion: 2
+guid: b502ad426eba89d4b8f7df3ca7b5a438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5401448397350575012
+    second: Mushroom_animations_no_background_0
+  - first:
+      213: -8670283795582343276
+    second: Mushroom_animations_no_background_1
+  - first:
+      213: -8992789381583283038
+    second: Mushroom_animations_no_background_2
+  - first:
+      213: 7913675310906366181
+    second: Mushroom_animations_no_background_3
+  - first:
+      213: -5195668629194545663
+    second: Mushroom_animations_no_background_4
+  - first:
+      213: 421727311423273366
+    second: Mushroom_animations_no_background_5
+  - first:
+      213: 1450886244312950988
+    second: Mushroom_animations_no_background_6
+  - first:
+      213: 1450744291951575346
+    second: Mushroom_animations_no_background_7
+  - first:
+      213: 3708661921822249363
+    second: Mushroom_animations_no_background_8
+  - first:
+      213: -8402707652377033274
+    second: Mushroom_animations_no_background_9
+  - first:
+      213: 5977681918571895551
+    second: Mushroom_animations_no_background_10
+  - first:
+      213: 743100697158504365
+    second: Mushroom_animations_no_background_11
+  - first:
+      213: 8974021975539756281
+    second: Mushroom_animations_no_background_12
+  - first:
+      213: 7670002369053434286
+    second: Mushroom_animations_no_background_13
+  - first:
+      213: -5308503855923887325
+    second: Mushroom_animations_no_background_14
+  - first:
+      213: -3184020309376019254
+    second: Mushroom_animations_no_background_15
+  - first:
+      213: -6329298464799938901
+    second: Mushroom_animations_no_background_16
+  - first:
+      213: -3828826638684810679
+    second: Mushroom_animations_no_background_17
+  - first:
+      213: -2221798526250735295
+    second: Mushroom_animations_no_background_18
+  - first:
+      213: -6346114318870179642
+    second: Mushroom_animations_no_background_19
+  - first:
+      213: 2921558639080697702
+    second: Mushroom_animations_no_background_20
+  - first:
+      213: 396711985896571981
+    second: Mushroom_animations_no_background_21
+  - first:
+      213: 3953325504694154037
+    second: Mushroom_animations_no_background_22
+  - first:
+      213: 2230203746733892581
+    second: Mushroom_animations_no_background_23
+  - first:
+      213: 2547871788500548953
+    second: Mushroom_animations_no_background_24
+  - first:
+      213: 8480329072510164308
+    second: Mushroom_animations_no_background_25
+  - first:
+      213: 1616263202221722311
+    second: Mushroom_animations_no_background_26
+  - first:
+      213: -201154850760998832
+    second: Mushroom_animations_no_background_27
+  - first:
+      213: -6390241799260555524
+    second: Mushroom_animations_no_background_28
+  - first:
+      213: 593930001602730898
+    second: Mushroom_animations_no_background_29
+  - first:
+      213: 3224983284438928189
+    second: Mushroom_animations_no_background_30
+  - first:
+      213: 871836904290512794
+    second: Mushroom_animations_no_background_31
+  - first:
+      213: -5973981480407220351
+    second: Mushroom_animations_no_background_32
+  - first:
+      213: -5869094966516277749
+    second: Mushroom_animations_no_background_33
+  - first:
+      213: 7916942399262946703
+    second: Mushroom_animations_no_background_34
+  - first:
+      213: 2425403674578541729
+    second: Mushroom_animations_no_background_35
+  - first:
+      213: -5698330108567909917
+    second: Mushroom_animations_no_background_36
+  - first:
+      213: -8815507512091731503
+    second: Mushroom_animations_no_background_37
+  - first:
+      213: -2862948057489362699
+    second: Mushroom_animations_no_background_38
+  - first:
+      213: -3206218861237771095
+    second: Mushroom_animations_no_background_39
+  - first:
+      213: -76515076447693011
+    second: Mushroom_animations_no_background_40
+  - first:
+      213: 7135603710600583594
+    second: Mushroom_animations_no_background_41
+  - first:
+      213: -3323386581681092241
+    second: Mushroom_animations_no_background_42
+  - first:
+      213: 6979652018745282753
+    second: Mushroom_animations_no_background_43
+  - first:
+      213: -5991392654607220727
+    second: Mushroom_animations_no_background_44
+  - first:
+      213: 363076670581494681
+    second: Mushroom_animations_no_background_45
+  - first:
+      213: 3568303887985217935
+    second: Mushroom_animations_no_background_46
+  - first:
+      213: -2566320773369183678
+    second: Mushroom_animations_no_background_47
+  - first:
+      213: 3648307725313303663
+    second: Mushroom_animations_no_background_48
+  - first:
+      213: 868451753702448791
+    second: Mushroom_animations_no_background_49
+  - first:
+      213: 3368277861291051284
+    second: Mushroom_animations_no_background_50
+  - first:
+      213: -8675190740736375599
+    second: Mushroom_animations_no_background_51
+  - first:
+      213: 3453030023920515908
+    second: Mushroom_animations_no_background_52
+  - first:
+      213: -8149309571045501450
+    second: Mushroom_animations_no_background_53
+  - first:
+      213: 2734547971650990496
+    second: Mushroom_animations_no_background_54
+  - first:
+      213: -6834285136229973396
+    second: Mushroom_animations_no_background_55
+  - first:
+      213: 3280724252301459675
+    second: Mushroom_animations_no_background_56
+  - first:
+      213: -5431643496847711525
+    second: Mushroom_animations_no_background_57
+  - first:
+      213: 1270913480645139372
+    second: Mushroom_animations_no_background_58
+  - first:
+      213: 2087648668828364260
+    second: Mushroom_animations_no_background_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e05bfc433a05b0800000000000000
+      internalID: -5401448397350575012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4972d7633d6fca780800000000000000
+      internalID: -8670283795582343276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd2da04b1333380800000000000000
+      internalID: -8992789381583283038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85a5e44c503dd60800000000000000
+      internalID: 7913675310906366181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e73ad8e645e7b0800000000000000
+      internalID: -5195668629194545663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f67d51c64ad500800000000000000
+      internalID: 421727311423273366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc826c12a55922410800000000000000
+      internalID: 1450886244312950988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23103b54f34122410800000000000000
+      internalID: 1450744291951575346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3919b3a5e50d77330800000000000000
+      internalID: 3708661921822249363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54c9cd8e5936b80800000000000000
+      internalID: -8402707652377033274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad0c8a80ef4f250800000000000000
+      internalID: 5977681918571895551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf4a7e9526005a00800000000000000
+      internalID: 743100697158504365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 104
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca89ab0712a8c70800000000000000
+      internalID: 8974021975539756281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1a5d96482517a60800000000000000
+      internalID: 7670002369053434286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 104
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238dd26ed76456b0800000000000000
+      internalID: -5308503855923887325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 104
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45306f56610d3d0800000000000000
+      internalID: -3184020309376019254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ac209490d928a0800000000000000
+      internalID: -6329298464799938901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94293a645764ddac0800000000000000
+      internalID: -3828826638684810679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a65013069a21e0800000000000000
+      internalID: -2221798526250735295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c019bf66a21ee7a0800000000000000
+      internalID: -6346114318870179642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe0e86a167b8820800000000000000
+      internalID: 2921558639080697702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4441850377618500800000000000000
+      internalID: 396711985896571981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 73
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53379c4d9980dd630800000000000000
+      internalID: 3953325504694154037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a1d4dd7643fe10800000000000000
+      internalID: 2230203746733892581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 73
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d70d674ebdb5320800000000000000
+      internalID: 2547871788500548953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd2695c5e20b570800000000000000
+      internalID: 8480329072510164308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca06ffa1de1e6610800000000000000
+      internalID: 1616263202221722311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504b8f9aba553df0800000000000000
+      internalID: -201154850760998832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6b836c0fc4157a0800000000000000
+      internalID: -6390241799260555524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 73
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5afe80301e3800800000000000000
+      internalID: 593930001602730898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b0e83e53171cc20800000000000000
+      internalID: 3224983284438928189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 73
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fef469b03691c00800000000000000
+      internalID: 871836904290512794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 73
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb09dbe77281da0800000000000000
+      internalID: -5973981480407220351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e93c74939cc8ea0800000000000000
+      internalID: -5869094966516277749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85fb479a21aedd60800000000000000
+      internalID: 7916942399262946703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5e2caac3c8a120800000000000000
+      internalID: 2425403674578541729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e985e115f67be0b0800000000000000
+      internalID: -5698330108567909917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91cf2df9609a580800000000000000
+      internalID: -8815507512091731503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b3f609e3c448d0800000000000000
+      internalID: -2862948057489362699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 41
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e3c7dee83183d0800000000000000
+      internalID: -3206218861237771095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279f5081f920fef0800000000000000
+      internalID: -76515076447693011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99e4cc4c1c60360800000000000000
+      internalID: 7135603710600583594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6949931385f0e1d0800000000000000
+      internalID: -3323386581681092241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 42
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c096210884bcd060800000000000000
+      internalID: 6979652018745282753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9008048df1c4adca0800000000000000
+      internalID: -5991392654607220727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 43
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dd38ee48e90500800000000000000
+      internalID: 363076670581494681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 41
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81110efa79258130800000000000000
+      internalID: 3568303887985217935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242cf938ad8926cd0800000000000000
+      internalID: -2566320773369183678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ec9eeb8461a230800000000000000
+      internalID: 3648307725313303663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79edffbc44c5d0c00800000000000000
+      internalID: 868451753702448791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c0137ed68ebe20800000000000000
+      internalID: 3368277861291051284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 8
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d486a30cf78b9780800000000000000
+      internalID: -8675190740736375599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 8
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b7a860380abef20800000000000000
+      internalID: 3453030023920515908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5542d3f16d7ee80800000000000000
+      internalID: -8149309571045501450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b58754e013f520800000000000000
+      internalID: 2734547971650990496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_55
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62c741d0edb721a0800000000000000
+      internalID: -6834285136229973396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd000705359778d20800000000000000
+      internalID: 3280724252301459675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 8
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e4d7840dee94b0800000000000000
+      internalID: -5431643496847711525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_animations_no_background_58
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabdb1ab31133a110800000000000000
+      internalID: 1270913480645139372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
