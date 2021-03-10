@@ -9,6 +9,7 @@ public class InserirLetra : MonoBehaviour
 {
     [SerializeField]
     PalavraManager palavraManager;
+<<<<<<< Updated upstream
 
     [SerializeField]
     UIPalavra uiPalavra;
@@ -20,24 +21,66 @@ public class InserirLetra : MonoBehaviour
         palavraManager = GetComponent<PalavraManager>();
     }
     public void OnGuessSubmitted(Button button)
+=======
+    [SerializeField]
+    UIPalavra uiPalavra;
+    [SerializeField]
+    EnemyManager enemyManager;
+    [SerializeField]
+    GameOverScript gameoverScript;
+
+    private string userInput;
+
+    private void Awake()
+    { 
+       
+        //print("pik");
+        palavraManager.OnPalavraChange += PalavraManager_OnPalavraChanged;
+    }
+
+    private void PalavraManager_OnPalavraChanged(string palavraEscondida, string descricao)
+    {
+       // print("PalavraManager_OnPalavraChanged");
+        userInput = palavraEscondida;
+    }
+
+    public void TentadoAdivinharLetra(Button button)
+>>>>>>> Stashed changes
     {
         char letter = button.GetComponentInChildren<TextMeshProUGUI>().text.ToCharArray()[0];
         print(letter);
         print(palavraManager.PalavraEscolhida);
         if (palavraManager.PalavraEscolhida.Contains(letter))
         {
+<<<<<<< Updated upstream
             UpdateAnswerText(letter);
             if (palavraManager.CheckWinCondition(userInput))
             {
                 Debug.Log("You won the game !");
+=======
+            print("acertou");
+            AtualizarTextoPalavra(letra);
+            if (palavraManager.CondicaoVencedor(userInput))
+            {
+                enemyManager.DiminuirSangueInimigo(1);
+                
+>>>>>>> Stashed changes
                 //ShowFinalDialogue(true);
             }
         }
         else
         {
+<<<<<<< Updated upstream
             if (palavraManager.CheckLoseCondition())
             {
                 Debug.Log("You lost the game");
+=======
+            print("errou");
+            if (palavraManager.CondicaoPerdedora())
+            {
+                print("perdeu");
+                gameoverScript.PerdeuJogo();
+>>>>>>> Stashed changes
                 //ShowFinalDialogue(false);
             }
             else { 
@@ -45,7 +88,14 @@ public class InserirLetra : MonoBehaviour
             }
         }
     }
+<<<<<<< Updated upstream
     private void UpdateAnswerText(char letter)
+=======
+
+
+
+    private void AtualizarTextoPalavra(char letter)
+>>>>>>> Stashed changes
     {
         char[] userInputArray = userInput.ToCharArray();
         for (int i = 0; i < palavraManager.PalavraEscolhida.Length; i++)
