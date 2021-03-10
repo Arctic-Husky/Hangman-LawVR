@@ -13,14 +13,14 @@ public class PalavraManager : MonoBehaviour
 
     private int vidasAtuais = 0;
     private const int TOTAL_DE_VIDAS = 8;
-    public string PalavraEscolhida {get;set;}
-    public string DescricaoEscolhida { get; set; }
+    public string PalavraEscolhida { get;private set;}
+    public string DescricaoEscolhida {  get; private set; }
 
     public event Action<string, string> OnPalavraChange = delegate { };
 
 
     public char PLACEHOLDER = '*';
-    void Start()
+    void Awake()
     {
         EscolherPalavraAleatoria(); 
     }
