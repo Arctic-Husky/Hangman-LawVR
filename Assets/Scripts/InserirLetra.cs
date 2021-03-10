@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 public class InserirLetra : MonoBehaviour
 {
+    [SerializeField]
     PalavraManager palavraManager;
 
     [SerializeField]
@@ -20,7 +21,9 @@ public class InserirLetra : MonoBehaviour
     }
     public void OnGuessSubmitted(Button button)
     {
-        char letter = button.GetComponentInChildren<Text>().text.ToCharArray()[0];
+        char letter = button.GetComponentInChildren<TextMeshProUGUI>().text.ToCharArray()[0];
+        print(letter);
+        print(palavraManager.PalavraEscolhida);
         if (palavraManager.PalavraEscolhida.Contains(letter))
         {
             UpdateAnswerText(letter);
@@ -51,6 +54,7 @@ public class InserirLetra : MonoBehaviour
             if (palavraManager.PalavraEscolhida[i] == letter) { userInputArray[i] = letter; }
         }
         userInput = new string(userInputArray);
+        print("atualizou");
         uiPalavra.AtualizarTexto(userInput);
     }
 }
