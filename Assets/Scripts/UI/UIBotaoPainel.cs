@@ -6,7 +6,7 @@ public class UIBotaoPainel : MonoBehaviour
     [Tooltip("Painel a ser ativado por este botão")]
     private UIPainel painel;
 
-    public void AtivarPainel()
+    public void ClicarBotao()
     {
         painel.AbrirPainel(painel.gameObject);
     }

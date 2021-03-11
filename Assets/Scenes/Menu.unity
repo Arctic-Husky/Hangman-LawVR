@@ -1646,7 +1646,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1599132207}
         m_TargetAssemblyTypeName: UIBotaoPainel, Assembly-CSharp
-        m_MethodName: AtivarPainel
+        m_MethodName: ClicarBotao
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2266,7 +2266,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2068434791}
         m_TargetAssemblyTypeName: UIBotaoPainel, Assembly-CSharp
-        m_MethodName: AtivarPainel
+        m_MethodName: ClicarBotao
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

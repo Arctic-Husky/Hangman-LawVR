@@ -8851,7 +8851,6 @@ GameObject:
   - component: {fileID: 1469225770}
   - component: {fileID: 1469225769}
   - component: {fileID: 1469225771}
-  - component: {fileID: 1469225772}
   m_Layer: 5
   m_Name: Button_Quit
   m_TagString: Untagged
@@ -8960,9 +8959,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1469225772}
-        m_TargetAssemblyTypeName: UIBotaoVoltar, Assembly-CSharp
-        m_MethodName: VoltarParaMenu
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UiBotaoSair, Assembly-CSharp
+        m_MethodName: SairDoJogo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8972,18 +8971,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &1469225772
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469225767}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b6cfe53bbabe9d4c8e148fc4059be7e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1487892094
 GameObject:
   m_ObjectHideFlags: 0
@@ -10921,7 +10908,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1861820949}
         m_TargetAssemblyTypeName: UIBotaoPainel, Assembly-CSharp
-        m_MethodName: AtivarPainel
+        m_MethodName: ClicarBotao
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
