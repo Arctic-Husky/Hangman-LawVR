@@ -12,10 +12,18 @@ public class ScoreVidas : MonoBehaviour
     PalavraManager palavraManager;
     void Awake()
     {
-        palavraManager.OnVidasChange += palavraManager_OnVidasChange;
+        //palavraManager.OnVidasChange += palavraManager_OnVidasChange;
+        GameManager.Instance.OnVidasChanged += Instance_OnVidasChanged;
     }
-    private void palavraManager_OnVidasChange(int vidas)
+
+    private void Instance_OnVidasChanged(int vidas)
+    {
+        if(vidasText != null)
+            vidasText.text = vidas.ToString();
+    }
+
+    /*private void palavraManager_OnVidasChange(int vidas)
     {
         vidasText.text = vidas.ToString();
-    }
+    }*/
 }

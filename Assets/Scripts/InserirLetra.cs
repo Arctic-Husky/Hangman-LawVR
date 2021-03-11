@@ -20,10 +20,11 @@ public class InserirLetra : MonoBehaviour
     Text gameOverText;
 
     private string userInput;
+    private GameOverScript gameOverScript;
 
     private void Awake()
-    { 
-       
+    {
+        gameOverScript = FindObjectOfType<GameOverScript>();
         print("pik");
         palavraManager.OnPalavraChange += PalavraManager_OnPalavraChanged;
     }
@@ -45,10 +46,11 @@ public class InserirLetra : MonoBehaviour
             AtualizarTextoPalavra(letra);
             if (palavraManager.CheckWinCondition(userInput))
             {
-                gameOver.SetActive(true);
+                /*gameOver.SetActive(true);
                 gameOverText.text = "Voce Ganhou!!!";
                 Debug.Log("You won the game !");
-                //ShowFinalDialogue(true);
+                //ShowFinalDialogue(true);*/
+                gameOverScript.VenceuJogo();
             }
         }
         else
@@ -56,10 +58,11 @@ public class InserirLetra : MonoBehaviour
             print("errou");
             if (palavraManager.CheckLoseCondition())
             {
-                gameOver.SetActive(true);
+                /*gameOver.SetActive(true);
                 gameOverText.text = "Voce Perdeu!!!";
                 Debug.Log("You lost the game");
-                //ShowFinalDialogue(false);
+                //ShowFinalDialogue(false);*/
+                gameOverScript.PerdeuJogo();
             }
             else { 
                 palavraManager.DrawNextHangmanPart(); 

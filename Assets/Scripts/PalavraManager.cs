@@ -31,13 +31,15 @@ public class PalavraManager : MonoBehaviour
         return PalavraEscolhida.Equals(userInput); 
     }
     //checar se perdeu
-    public bool CheckLoseCondition() { 
-        return vidasAtuais == TOTAL_DE_VIDAS - 1; 
+    public bool CheckLoseCondition() {
+        return GameManager.Instance.Vidas < 1 || vidasAtuais == TOTAL_DE_VIDAS - 1;
+        //return vidasAtuais == TOTAL_DE_VIDAS - 1; 
     }
 
     public void DrawNextHangmanPart()
     {
         vidasAtuais = ++vidasAtuais % TOTAL_DE_VIDAS;
+        GameManager.Instance.PerderVida();
         OnVidasChange(vidasAtuais);
         print(vidasAtuais);
         //HangmanImage.sprite = HangmanSprites[currentHangmanSprite];

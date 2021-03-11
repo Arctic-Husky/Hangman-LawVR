@@ -1,10 +1,16 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
 
+    public int Vidas { get; private set; }
+
+    public event Action<int> OnVidasChanged = delegate { };
+
+    private int totalDeVidas;
     private int cenaAtual;
 
     private void Awake()
@@ -24,6 +30,8 @@ public class GameManager : MonoBehaviour
 
     public void MoverParaJogo(int numeroCena)
     {
+        Vidas = 8;
+        OnVidasChanged(Vidas);
         SceneManager.LoadScene(numeroCena);
         cenaAtual = numeroCena;
     }
@@ -41,6 +49,24 @@ public class GameManager : MonoBehaviour
 
     public void ReiniciarCena()
     {
+        Vidas = 8;
+        OnVidasChanged(Vidas);
         SceneManager.LoadScene(cenaAtual);
+    }
+
+    public void PerderVida()
+    {
+        Vidas--;
+        Debug.Log("Perdeu vida");
+
+        if(OnVidasChanged != null)
+        {
+            OnVidasChanged(Vidas);
+        }
+
+        /*if(Vidas <= 0)
+        {
+            
+        }*/
     }
 }
