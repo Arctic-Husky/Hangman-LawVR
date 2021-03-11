@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScoreVidas : MonoBehaviour
+public class UIScoreVidas : MonoBehaviour
 {
     [SerializeField]
     Text vidasText;

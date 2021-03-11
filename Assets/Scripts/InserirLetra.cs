@@ -19,6 +19,8 @@ public class InserirLetra : MonoBehaviour
     [SerializeField]
     Text gameOverText;
 
+    public event Action OnErrarLetra=delegate{};
+
     private string userInput;
 
     private void Awake()
@@ -45,27 +47,30 @@ public class InserirLetra : MonoBehaviour
             AtualizarTextoPalavra(letra);
             if (palavraManager.CheckWinCondition(userInput))
             {
-                gameOver.SetActive(true);
-                gameOverText.text = "Voce Ganhou!!!";
-                Debug.Log("You won the game !");
-                //ShowFinalDialogue(true);
+                GanhouJogo("Voce Ganhou!!!");
             }
         }
         else
         {
             print("errou");
+            OnErrarLetra();
             if (palavraManager.CheckLoseCondition())
             {
-                gameOver.SetActive(true);
-                gameOverText.text = "Voce Perdeu!!!";
-                Debug.Log("You lost the game");
-                //ShowFinalDialogue(false);
+                GanhouJogo("Voce Perdeu!!!");
             }
             else { 
                 palavraManager.DrawNextHangmanPart(); 
             }
         }
     }
+
+    private void GanhouJogo(string gameOverString)
+    {
+        gameOver.SetActive(true);
+        gameOverText.text = gameOverString;
+        Debug.Log(gameOverText);
+    }
+
     private void AtualizarTextoPalavra(char letter)
     {
         print(userInput);
