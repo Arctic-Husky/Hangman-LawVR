@@ -1295,6 +1295,7 @@ GameObject:
   - component: {fileID: 2068434790}
   - component: {fileID: 2068434789}
   - component: {fileID: 2068434792}
+  - component: {fileID: 2068434791}
   m_Layer: 5
   m_Name: Iniciar
   m_TagString: Untagged
@@ -1360,6 +1361,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068434787}
   m_CullTransparentMesh: 0
+--- !u!114 &2068434791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068434787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5acdbd3ebd6dda47bcac29ef17130c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numeroCena: 1
 --- !u!114 &2068434792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1403,10 +1417,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 169385498}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: MoverParaJogo
-        m_Mode: 3
+      - m_Target: {fileID: 2068434791}
+        m_TargetAssemblyTypeName: UIBotaoGamemode, Assembly-CSharp
+        m_MethodName: IniciarJogo
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
